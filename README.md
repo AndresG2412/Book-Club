@@ -8,9 +8,9 @@ los pasos para ejecutar este proyecto son:
 * Descargar y descomprimir .zip
 
 * abrir VS Code, la carpeta descomprimida del proyecto y ubicarse en cliente mientras sigues los siguientes pasos:
-> cd cliente
-> npm i
-> npm run dev
+* > cd cliente
+* > npm i
+* > npm run dev
 
 * abrir una segunda terminal y ubicarse en servidor mientras sigues los siguientes pasos:
 > cd servidor
