@@ -21,7 +21,7 @@ Abrir una segunda terminal y ubicarse en servidor mientras sigues los siguientes
 Ahora se debe crear la base de datos y las tablas en MySQL
 * > CREATE DATABASE usuarios_bc;
 * > USE usuarios_bc;
-* > CREATE TABLE clientes (id AUTO_INCREMENT PRYMARY KEY, nombre VARCHAR(100) NOT_NULL, correo VARCHAR(100) NOT_NULL, contraseña VARCHAR(25) NOT_NULL, edad INT NOT_NULL)
-* > CREATE TABLE libros (id AUTO_INCREMENT PRYMARY KEY, titulo VARCHAR(100) NOT_NULL, autor VARCHAR(100) NOT_NULL, genero VARCHAR(50) NOT_NULL, link VARCHAR(300) NOT_NULL)
+* > CREATE TABLE clientes (id AUTO_INCREMENT PRYMARY KEY, nombre VARCHAR(100) NOT_NULL, correo VARCHAR(100) NOT_NULL, contraseña VARCHAR(25) NOT_NULL, edad INT NOT_NULL);
+* > CREATE TABLE libros (id AUTO_INCREMENT PRYMARY KEY, titulo VARCHAR(100) NOT_NULL, autor VARCHAR(100) NOT_NULL, genero VARCHAR(50) NOT_NULL, link VARCHAR(300) NOT_NULL);
 
 ### Perfecto! una vez seguidos estos pasos deberia estar funcionando a la perfeccion, verificando y almacenando los datos correctamente, fue un placer...
